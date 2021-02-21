@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Solution Items", "!Solution Items", "{192CF17F-211E-46CE-B338-A4607948E847}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		add.bat = add.bat
 	EndProjectSection
 EndProject
 Global
